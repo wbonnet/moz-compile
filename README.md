@@ -1,2 +1,2 @@
 # moz-compile
-Mozilla softwarecompilation scripts and patches for my own profiling and bug fix tests
+Mozilla software compilation scripts and patches for my own profiling and bug fix tests
